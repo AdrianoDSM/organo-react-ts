@@ -4,10 +4,6 @@ import Time from './componentes/Time';
 import Banner from './componentes/Banner'
 import { IColaborador } from './compartilhado/interface/IColaborador';
 
-interface AppProps {
-
-}
-
 function App() {
 
   const times = [
